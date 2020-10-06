@@ -1,1 +1,7 @@
-this is the first test
+#include<stidio.h>
+
+int main()
+{
+	printf("hellow .world\n");
+	return 0;
+}
